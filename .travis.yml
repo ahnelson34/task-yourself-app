@@ -3,7 +3,7 @@ node_js: node
 deploy:
   provider: heroku
   api_key:
-    secure: 
-  app: frozen-depths-71998
+    secure: QRRKeO/9ZDrkpRlQvUVRVykNt8bUQ4rzeQlg7dDzAuZGAgIIYuNtlTrouTqBJOgN0VtTsbxZMSQef6e5QeGsY95uAlkg68y00jZQnWUkGVtm0gF58kKfTFyWc3fO1qHENjloTbtp4kN4LHuA1wKd/MSK8JaGeQlFbZoP4swmPDBbaMELHUUzr7r4CPBI7GjOHHIcD0jIoz0cjes36wOMswoD3HH11U6GQB816UJIcx0L4mHLsS4G6h72ULu7KZ7r4eFJUp9cN18whHQCAUDy6xLO3BoUgpxwPwEEJ0CQCXLSoLJSonRYrnEDSoXYMh9EkoFR6PbUbr8qyqIYFZxPcH8EkigBhV7Iu4uC+0xqPdj53hfUXUDzxe8y540ZR8PuLrELul3SquFwPoz8/pGohjHxpqhoA5c+FGb65MQcTcY3Ry6aBH6UUYIAdm579vhTPxt6ACVVMeRLO248Wd8vw7EA1ONCrmjKFxxtjeB3YU+8MozIEOsQZGZng7gv3E2NGiSkx3SayIdfIWNdngvA6k/FGmz0M2jPIyNP3r1eJwT81ksjVnO7nF3eAc0MrbVU8fr93dHxSs2FRIrnywQMYrH80OG19sToueQKstFvN6PBq7xEypqz9cPYAIqepcCSwodjqWYPLWEDjifSkFGhNFN+ofZWgGqPqgPGPymriFk=
+  app: https://git.heroku.com/salty-dusk-98086.git
   on:
     repo: ahnelson34/task-yourself-app
